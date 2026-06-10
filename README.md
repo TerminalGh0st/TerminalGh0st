@@ -68,5 +68,5 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirSarfaraz&show_icons=true&locale=en" alt="AmirSarfaraz" />
+  <img src="https://github-readme-stats.vercel.app/api?username=terminalGh0st&show_icons=true&locale=en" alt="terminalGh0st" />
 </p>

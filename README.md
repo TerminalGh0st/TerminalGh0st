@@ -197,7 +197,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGh0s
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/amir-mirahmadi">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 

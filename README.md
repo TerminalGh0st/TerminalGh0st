@@ -183,9 +183,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGh0s
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TerminalGh0st&theme=tokyonight&column=7&no-frame=true"/>
-
-</p>
+<img src="https://github-profile-trophy-omega.vercel.app/?username=TerminalGh0st&theme=tokyonight&column=7&no-frame=true&margin-w=10&margin-h=10" alt="Trophies" /></p>
 
 ---
 

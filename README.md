@@ -1,72 +1,212 @@
-<!-- Header - معرفی -->
-<h1 align="center">Hi 👋, I'm Amir Mirahmadi</h1>
-<h3 align="center">🎨 I am a <span style="color: #FF69B4;">Back-End Developer</span> 💻</h3>
+<div align="center">
 
-<!-- Views -->
+# Amir Mirahmadi
 
-<!-- Trophy -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=terminalgh0st" alt="AmirMirahmadi" />
-  </a> 
+### Full Stack Developer • DevOps Engineer • AI Infrastructure Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;DevOps+Engineer;ASP.NET+Core+Specialist;Cloud+%26+Infrastructure+Engineer;Building+Scalable+AI+Platforms" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=TerminalGh0st&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+name: Amir Mirahmadi
+
+role:
+  - Full Stack Developer
+  - DevOps Engineer
+  - AI Infrastructure Builder
+
+specialized_in:
+  - ASP.NET Core
+  - React
+  - Docker
+  - Linux
+  - Kubernetes
+  - PostgreSQL
+  - Redis
+  - AI Systems
+
+currently_building:
+  - SafeDrop
+  - Sajed AI
+  - Hoshyar AI
+
+philosophy:
+  "Build once, automate forever."
+```
+
+---
+
+# 🚀 Technology Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
 </p>
 
-<!-- Lang -->
-<h3 align="center">Languages and Tools:</h3>
+### Frontend
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> 
-        <br>Css
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td>
-          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="67"/>
-        <br>C#
-      </td>
-      <td>
-         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="67"/>
-        <br>docker
-      </td>
-      <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="90">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="icon" width="55" height="55" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="90"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-        <br>Git
-      </td>      
-      <td align="center" width="90">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="55" height="55" alt="Node.js" />
-        <br>Node.js
-      </td>    
-      <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-        <br>Postman
-      </td> 
-    </tr> 
-  </table>
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+</p>
 
-<!-- Snake animation center aligned -->
-<div align="center">
-  <img src="https://github.com/terminalGh0st/Amirmirahmadi/blob/main/github-snake-dark.svg" alt="Snake animation" />
-</div>
+### DevOps & Infrastructure
 
-<!-- Stats -->
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,bash,githubactions" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+# 🏗️ Architecture Focus
+
+```text
+Frontend
+ ├── React
+ ├── TypeScript
+ └── REST APIs
+
+Backend
+ ├── ASP.NET Core
+ ├── Node.js
+ └── WebSocket Services
+
+Infrastructure
+ ├── Docker
+ ├── Kubernetes
+ ├── Linux
+ └── Nginx
+
+Observability
+ ├── Grafana
+ ├── Prometheus
+ ├── Seq
+ └── Sentry
+
+AI
+ ├── Ollama
+ ├── Qdrant
+ ├── DeepSeek
+ └── RAG Systems
+```
+
+---
+
+# 🔥 Featured Projects
+
+## 🔐 SafeDrop
+
+Enterprise-grade secure file sharing platform with distributed architecture.
+
+---
+
+## 🤖 Sajed AI
+
+Private AI assistant platform powered by local LLMs and memory systems.
+
+---
+
+## 🧠 Hoshyar AI
+
+Advanced AI platform with semantic memory and vector search.
+
+---
+
+## 📊 Monitoring Stack
+
+Centralized logging, monitoring and observability platform using:
+
+- Grafana
+- Prometheus
+- Seq
+- Sentry
+- Node Exporter
+
+---
+
+# 📈 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=terminalGh0st&show_icons=true&locale=en" alt="terminalGh0st" />
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=TerminalGh0st&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerminalGh0st&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# ⚡ GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TerminalGh0st&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TerminalGh0st&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TerminalGh0st&theme=tokyonight&column=7&no-frame=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://github.com/TerminalGh0st">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### Full Stack Development • DevOps • Cloud Infrastructure • AI Engineering
+
+</div>
